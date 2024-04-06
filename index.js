@@ -22,5 +22,4 @@ server.listen(process.env.port,(req,res)=>{
     console.log("server started..."); 
 })  
 
-//mongodb+srv://999pavankumarraju:<password>@cluster0.3jf1nk6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-//mongodb+srv://999pavankumarraju:<password>@cluster0.3jf1nk6.mongodb.net/   
+   
