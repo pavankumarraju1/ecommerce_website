@@ -11,7 +11,7 @@
   ],
   "routes": [
     {
-      "src": "/product/(.+)",
+      "src": "/product/(.*)",
       "dest": "index.js"
     },
     {
